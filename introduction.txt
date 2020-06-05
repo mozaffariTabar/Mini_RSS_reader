@@ -1,0 +1,4 @@
+I preferred to don't use any frameworks or libraries like (jQuery, React, Lodash, ...), because it was a small project.
+So, I used VanillaJs only and little ES6
+Finally, for safety (old browsers) it must transpile with babel.js But It was not necessary for a test project.
+You may host the files in any webserver as you wish. There is no need to install anything.
